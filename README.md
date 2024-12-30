@@ -11,6 +11,8 @@
 抽奖小程序和 PC 端相结合
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+项目背景：公司海报，在页面上显示抽奖
+
 ## Getting Started
 
 First, run the development server:
